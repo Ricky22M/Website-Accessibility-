@@ -1,4 +1,4 @@
-# Week-01-Challenge
+# Website-Accessibility 
 Objective: Step 1 make webpage semantic HTML elements, step 2 make HTML elements follow a logical structure, step 3 alt attributes to images, step 4 make heading attributs fall into sequential order, and step 5 make a consie, descriptive title.
 ## Step 1 and 2
 
